@@ -1,0 +1,120 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+
+
+
+
+    <string name="number_1_default">one</string>
+    <string name="number_2_default">two</string>
+    <string name="number_3_default">three</string>
+    <string name="number_4_default">four</string>
+    <string name="number_5_default">five</string>
+    <string name="number_6_default">six</string>
+    <string name="number_7_default">seven</string>
+    <string name="number_8_default">eight</string>
+    <string name="number_9_default">nine</string>
+    <string name="number_10_default">ten</string>
+
+    <string name="number_1_miwok">lutti</string>
+    <string name="number_2_miwok">otiiko</string>
+    <string name="number_3_miwok">tolookosu</string>
+    <string name="number_4_miwok">oyyisa</string>
+    <string name="number_5_miwok">massokka</string>
+    <string name="number_6_miwok">temmokka</string>
+    <string name="number_7_miwok">kenekaku</string>
+    <string name="number_8_miwok">kawinta</string>
+    <string name="number_9_miwok">wo’e</string>
+    <string name="number_10_miwok">na’aacha</string>
+
+
+
+
+
+    <string name="color_1_default">red</string>
+    <string name="color_2_default">mustard yellow</string>
+    <string name="color_3_default">dusty yellow</string>
+    <string name="color_4_default">green</string>
+    <string name="color_5_default">brown</string>
+    <string name="color_6_default">gray</string>
+    <string name="color_7_default">black</string>
+    <string name="color_8_default">white</string>
+
+    <string name="color_1_miwok">weṭeṭṭi</string>
+    <string name="color_2_miwok">chiwiiṭә</string>
+    <string name="color_3_miwok">ṭopiisә</string>
+    <string name="color_4_miwok">chokokki</string>
+    <string name="color_5_miwok">ṭakaakki</string>
+    <string name="color_6_miwok">ṭopoppi</string>
+    <string name="color_7_miwok">kululli</string>
+    <string name="color_8_miwok">kelelli</string>
+
+
+
+
+
+    <string name="family_1_default">father</string>
+    <string name="family_2_default">mother</string>
+    <string name="family_3_default">son</string>
+    <string name="family_4_default">daughter</string>
+    <string name="family_5_default">older brother</string>
+    <string name="family_6_default">younger brother</string>
+    <string name="family_7_default">older sister</string>
+    <string name="family_8_default">younger sister</string>
+    <string name="family_9_default">grandmother</string>
+    <string name="family_10_default">grandfather</string>
+
+    <string name="family_1_miwok">әpә</string>
+    <string name="family_2_miwok">әṭa</string>
+    <string name="family_3_miwok">angsi</string>
+    <string name="family_4_miwok">tune</string>
+    <string name="family_5_miwok">taachi</string>
+    <string name="family_6_miwok">chalitti</string>
+    <string name="family_7_miwok">teṭe</string>
+    <string name="family_8_miwok">kolliti</string>
+    <string name="family_9_miwok">ama</string>
+    <string name="family_10_miwok">paapa</string>
+
+
+
+
+
+    <string name="phrase_1_default">Where are you going?</string>
+    <string name="phrase_2_default">What is your name?</string>
+    <string name="phrase_3_default">My name is...</string>
+    <string name="phrase_4_default">How are you feeling?</string>
+    <string name="phrase_5_default">I’m feeling good.</string>
+    <string name="phrase_6_default">Are you coming?</string>
+    <string name="phrase_7_default">Yes, I’m coming.</string>
+    <string name="phrase_8_default">I’m coming.</string>
+    <string name="phrase_9_default">Let’s go.</string>
+    <string name="phrase_10_default">Come here.</string>
+
+    <string name="phrase_1_miwok">minto wuksus?</string>
+    <string name="phrase_2_miwok">tinnә oyaase\'nә?</string>
+    <string name="phrase_3_miwok">oyaaset...</string>
+    <string name="phrase_4_miwok">michәksәs?</string>
+    <string name="phrase_5_miwok">kuchi achit</string>
+    <string name="phrase_6_miwok">әәnәs\'aa?</string>
+    <string name="phrase_7_miwok">hәә’ әәnәm</string>
+    <string name="phrase_8_miwok">әәnәm</string>
+    <string name="phrase_9_miwok">yoowutis</string>
+    <string name="phrase_10_miwok">әnni\'nem</string>
+
+
+
+
+
+</resources>
